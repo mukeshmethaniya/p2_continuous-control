@@ -53,4 +53,4 @@ Follow below the instructions to get started with this project!
 
 - Find Existing training weight in 'checkpoint_actor_1.pth' and 'checkpoint_critic_1.pth.pth' for Actor and Critic neural network respectively
 
-- Find Report of project in report.pdf file
+- Find Report of project in [report.pdf](https://github.com/mukeshmethaniya/p2_continuous-control/blob/master/Report.pdf) file
